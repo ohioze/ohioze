@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07110d,45:0d5c37,100:75f0a7&text=OHIOZE%20ISEMEDE&fontColor=f3f7f4&fontSize=42&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20%7C%20SRE%20%7C%20Cloud%20Platform%20Engineering&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07110d,45:0d5c37,100:75f0a7&text=JOHN%20ISEMEDE&fontColor=f3f7f4&fontSize=42&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20%7C%20SRE%20%7C%20Cloud%20Platform%20Engineering&descAlignY=58&descSize=16" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=75F0A7&center=true&vCenter=true&width=900&lines=Building+reliable+cloud+infrastructure;Automating+away+operational+toil;Designing+safer+CI%2FCD+and+production+workflows;Observability+%7C+Infrastructure+as+Code+%7C+Reliability" alt="Typing SVG" />
@@ -26,7 +26,7 @@ Currently, I support business critical financial platforms at **London Stock Exc
 
 ```text
 $ whoami
-Ohioze Isemede
+John Isemede
 Senior DevOps Engineer / SRE
 
 $ current_focus
